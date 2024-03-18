@@ -30,7 +30,25 @@ The project features the following Tableau visualizations that I have created:
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/679136f8-70d9-4f29-8041-eeda776cc0c7)
 
 
-3. Oil Refineries and Natural Disasters Map: A combined visualization of natural disaster data and oil refinery locations, enabling me to visually analyze potential impacts and vulnerabilities.
-4. Oil Refinery - States Map: A focused view on the states where the selected energy company has refineries, highlighting the relevant natural disasters in those areas.
-5. Disaster Multi Maps: A multi-map layout showcasing the top four natural disasters impacting refinery locations, with labels indicating the disaster type and frequency of occurrence.
-6. Tableau Story: A cohesive narrative integrating all the visualizations, where I employ rhetorical techniques to effectively communicate the insights and potential consequences of natural disasters on refinery operations.
+3. Oil Refineries and Natural Disasters Map: A combined visualization of natural disaster data and oil refinery locations of ExxonMobil, enabling me to visually analyze potential impacts and vulnerabilities.
+
+Name of refinery	County	States
+Baytown Refinery	Harris	Texas
+Baton Rouge Refinery	East Baton Rouge Parish	Louisiana
+Beaumont refinery	Jefferson	Texas
+Joliet Refinery	Will	Illinois
+Billings refinery	Yellowstone	Montana
+
+
+![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/d670f0eb-d1f5-47b8-9fad-90deae927d26)
+
+![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/ea3fc769-c1e6-43e2-a2ed-e36efb8b551e)
+
+5. Oil Refinery - States Map: A focused view on the states where the selected energy company has refineries, highlighting the relevant natural disasters in those areas.
+
+The states in which Exxonmobil Refining & Supply Co has refineries are:
+Texas, Louisiana, Illinois, Montana
+
+
+7. Disaster Multi Maps: A multi-map layout showcasing the top four natural disasters impacting refinery locations, with labels indicating the disaster type and frequency of occurrence.
+8. Tableau Story: A cohesive narrative integrating all the visualizations, where I employ rhetorical techniques to effectively communicate the insights and potential consequences of natural disasters on refinery operations.
