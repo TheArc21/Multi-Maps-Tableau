@@ -19,7 +19,7 @@ For this project, I utilize the following data sources:
 
 The project features the following Tableau visualizations that I have created:
 
-# Natural Disasters Map: An interactive map displaying the locations and types of natural disasters across the United States, with filtering options for states and incident types.
+# 1. Natural Disasters Map: An interactive map displaying the locations and types of natural disasters across the United States, with filtering options for states and incident types.
 
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/c7ad8530-d5db-45ed-9cef-9350810f7078)
 
@@ -30,7 +30,7 @@ The project features the following Tableau visualizations that I have created:
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/679136f8-70d9-4f29-8041-eeda776cc0c7)
 
 
-# Oil Refineries and Natural Disasters Map: A combined visualization of natural disaster data and oil refinery locations of ExxonMobil, enabling me to visually analyze potential impacts and vulnerabilities.
+# 2. Oil Refineries and Natural Disasters Map: A combined visualization of natural disaster data and oil refinery locations of ExxonMobil, enabling me to visually analyze potential impacts and vulnerabilities.
 
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/35ce35d2-69fc-4d42-a437-8bc3509982cb)
 
@@ -38,7 +38,7 @@ The project features the following Tableau visualizations that I have created:
 
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/ea3fc769-c1e6-43e2-a2ed-e36efb8b551e)
 
-# Oil Refinery - States Map: A focused view on the states where the selected energy company has refineries, highlighting the relevant natural disasters in those areas.
+# 3. Oil Refinery - States Map: A focused view on the states where the selected energy company has refineries, highlighting the relevant natural disasters in those areas.
 
 The states in which Exxonmobil Refining & Supply Co has refineries are:
 Texas, Louisiana, Illinois, Montana
@@ -49,7 +49,7 @@ Texas, Louisiana, Illinois, Montana
 
 From analyzing this, we can say all disasters that are impacting a particular state for example, Louisiana – Flood, Coastal Storm and Montana – Fire, Hurricane.
 
-# Disaster Multi Maps: A multi-map layout showcasing the top four natural disasters impacting refinery locations, with labels indicating the disaster type and frequency of occurrence.
+# 4. Disaster Multi Maps: A multi-map layout showcasing the top four natural disasters impacting refinery locations, with labels indicating the disaster type and frequency of occurrence.
 
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/8ec4026a-6a4c-4583-b2e6-0d5761dd4e68)
 
@@ -58,7 +58,7 @@ From analyzing this, we can say all disasters that are impacting a particular st
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/1bd901aa-c93f-4932-bb7c-bc367e1376dd)
 
 
-# Tableau Story: A cohesive narrative integrating all the visualizations, where I employ rhetorical techniques to effectively communicate the insights and potential consequences of natural disasters on refinery operations.
+# 5. Tableau Story: A cohesive narrative integrating all the visualizations, where I employ rhetorical techniques to effectively communicate the insights and potential consequences of natural disasters on refinery operations.
 
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/e93ff163-d421-4432-ba2c-5df541a2c871)
 
