@@ -3,10 +3,10 @@ Through this project, I aim to provide a comprehensive visual analysis of the im
 
 # Key Objectives
 
-•	Visualize Natural Disaster Occurrences: I map the locations and types of natural disasters, such as floods, hurricanes, and fires, across the United States between 2004 and 2015, using FEMA data.
-•	Identify Refinery Locations: I pinpoint the locations of oil refineries, including their associated counties and states, based on refinery data from energy companies.
-•	Analyze Disaster Impact: My analysis uncovers the top four natural disasters posing the greatest threat to refinery operations, enabling proactive planning and mitigation strategies.
-•	Create a Compelling Narrative: I employ rhetorical techniques (emotional, logical, or ethical) to weave the visualizations into a cohesive story, communicating the significance of the findings and potential consequences for critical energy infrastructure.
+1.	Visualize Natural Disaster Occurrences: I map the locations and types of natural disasters, such as floods, hurricanes, and fires, across the United States between 2004 and 2015, using FEMA data.
+2.	Identify Refinery Locations: I pinpoint the locations of oil refineries, including their associated counties and states, based on refinery data from energy companies.
+3.	Analyze Disaster Impact: My analysis uncovers the top four natural disasters posing the greatest threat to refinery operations, enabling proactive planning and mitigation strategies.
+4.	Create a Compelling Narrative: I employ rhetorical techniques (emotional, logical, or ethical) to weave the visualizations into a cohesive story, communicating the significance of the findings and potential consequences for critical energy infrastructure.
 
 # Data Sources
 
