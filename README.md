@@ -20,6 +20,7 @@ For this project, I utilize the following data sources:
 The project features the following Tableau visualizations that I have created:
 
 1. Natural Disasters Map: An interactive map displaying the locations and types of natural disasters across the United States, with filtering options for states and incident types.
+
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/c7ad8530-d5db-45ed-9cef-9350810f7078)
 
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/9c948f51-8a03-4562-b42d-48a3562f62ad)
