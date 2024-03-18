@@ -32,13 +32,7 @@ The project features the following Tableau visualizations that I have created:
 
 3. Oil Refineries and Natural Disasters Map: A combined visualization of natural disaster data and oil refinery locations of ExxonMobil, enabling me to visually analyze potential impacts and vulnerabilities.
 
-Name of refinery	County	States
-Baytown Refinery	Harris	Texas
-Baton Rouge Refinery	East Baton Rouge Parish	Louisiana
-Beaumont refinery	Jefferson	Texas
-Joliet Refinery	Will	Illinois
-Billings refinery	Yellowstone	Montana
-
+![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/35ce35d2-69fc-4d42-a437-8bc3509982cb)
 
 ![image](https://github.com/TheArc21/Multi-Maps-Tableau/assets/90914688/d670f0eb-d1f5-47b8-9fad-90deae927d26)
 
